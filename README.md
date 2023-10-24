@@ -49,15 +49,15 @@ AI code-generating tools like Copilot are not always right and sometimes even su
 
 ✅ **Do This:** With your partner, trace the code Copilot suggested as a solution. This can be in the form of a numbered or bulleted list, a flowchart, a drawing, or any other representation you choose.
 
-Trace your code here!
+I wrote most of the code and asked copilot a few specific questions. It did not give me a whole solution.
 
 Based on your analysis, would the code it suggested make sense as a solution to the problem? Why or why not?
 
-Write your response here!
+For some reason, it thought birds were possible pets. I had to remove those from its suggestions.
 
 If the code it suggested does **not** make sense as a solution, what needs to be improved - the steps you outlined to solve the problem or the prompt you gave Copilot? What modifications do you need to make?
 
-Write your response here!
+I came up with the solution, not copilot.
 
 **🔁 Repeat this process until you feel confident you have a working solution!**
 
@@ -84,10 +84,10 @@ So the code it gave makes sense . . . now what?? Well, let's add it to our progr
 
 Switch to the `main` branch after merging both branches, and test the app (run `App.java`)! Test choosing a dog and giving it a name, then test choosing a cat and giving it a name. Did it work? Why or why not?
 
-Write your response here!
+Yes. It worked exactly as I wanted it to.
 
 If the app does **not** work as expected, what is it doing or **not** doing?
 
-Write your response here!
+It is working.
 
 **🔁 If the app doesn't work as expected, follow the process you used in Steps 2 through 5 to break down the problem, plan the prompt to ask Copilot, evaluate the code it suggests, and implement and test its suggestion.**
